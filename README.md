@@ -1,9 +1,5 @@
 # 🌲 Cypress, do Zero à Nuvem ☁️
 
-👋 Seja bem-vindo(a)!
-
-É muito bom tê-lo(a) aqui. Tenho certeza que você vai amar esse curso. ❤️
-
 ## O que você vai aprender?
 
 - Como configurar um projeto Cypress do zero
